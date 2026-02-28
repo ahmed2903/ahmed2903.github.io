@@ -1,7 +1,7 @@
-# Mahdi Mohamed Saleh Shaban
+# Ahmed Mohamed
 
 [LinkedIn](https://www.linkedin.com/in/mahdi-shaban)  
 [Github](https://github.com/MahdiShaban)  
 [Twitter](https://twitter.com/mahdisha3ban)  
 
-PhD Electrical and Electronics Engineering | Electromechanical Engineer
+PhD Physics | Computational Imaging
